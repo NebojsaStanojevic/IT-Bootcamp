@@ -1,0 +1,91 @@
+    1  psql -U postgres
+    2  netstat -nlp | grep 5432
+    3  sudo systemctl start postgresql
+    4  systemctl start postgresql
+    5  ls -help
+    6  ls --help
+    7  cd test123
+    8  rm test.txt
+    9  mkdir test.1234
+   10  rmdir test.1234
+   11  mkdir history>istorija
+   12  history
+   13  history>istorija
+   14  history > istorija.txt
+   15  rmdir istorija
+   16  rmdir istorija
+   17  cd istorija
+   18  rmdir history
+   19  mkdir test123.txt
+   20  history
+   22  ls
+   23  ls-l
+   24  ls -l
+   25  cd Users
+   27  ls -l
+   28  cd nesa
+   29  cd Desktop
+   30  ls -l
+   31   cd ..
+   32  cd Desktop
+   34  ls -l
+   35  cd ..
+   36  cd ../..
+   40  mkdir test123
+   41  cd test123
+   42  nano test.txt
+   44  cd Users
+   45  cd Desctop
+   46  cd Destop
+   47  cd Desktop
+   48  cd Desktop
+   49  grep -e cd
+   50  grep -e cd
+   51  grep -e cd
+   52  grep -e cd
+   53  ls -l
+   54  cd Users
+   55  cd nesa
+   56  ls -l
+   57  cd Desktop
+   58  mkdir novifajl
+   59  cd novifajl
+   60  touch fajl123.txt
+   61  history > fajl123.txt
+   62  grep -e cd
+   63  ls -l
+   64  cd Users
+   65  cd nesa
+   66  cd Desktop
+   67  ls -l
+   68  cd novi123
+   69  ls -l
+   70  nano fajl.txt
+   71  mkdir fajl1234.txt
+   72  cd fajl1234.txt
+   73  cd ..
+   75  rm novi123
+   76  cd fajl1234.txt
+   77  rm fajl1234.txt
+   78  rmdir fajl1234.txt
+   79  ps
+   80  kill 20948
+   81  cd ..
+   82  cd ..
+   83  cd ..
+   84  cd novifajl
+   85  cd novi123
+   86  cd Desktop
+   87  cd novifajl
+   88  rmdir novifajl
+   89  nano fajl123.txt
+   90  grep cd novifajl
+   91  cd fajl123.txt
+   92  cd ..
+   93  cd novi123
+   94  grep cd novi123
+   95  cd ..
+   96  cd novi123
+   97  cd fajl.txt
+   98  touch fajl.txt
+   99  history > fajl.txt
